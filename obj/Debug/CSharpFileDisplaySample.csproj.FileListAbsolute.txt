@@ -1,0 +1,35 @@
+C:\Users\Public\Documents\Autodesk\Inventor 2015\SDK\DeveloperTools\Samples\VCSharp.NET\Standalone Applications\ApprenticeServer\FileDisplay\obj\Debug\CSharpFileDisplaySample.csproj.ResolveComReference.cache
+C:\Users\Public\Documents\Autodesk\Inventor 2015\SDK\DeveloperTools\Samples\VCSharp.NET\Standalone Applications\ApprenticeServer\FileDisplay\bin\Debug\CSharpFileDisplaySample.exe
+C:\Users\Public\Documents\Autodesk\Inventor 2015\SDK\DeveloperTools\Samples\VCSharp.NET\Standalone Applications\ApprenticeServer\FileDisplay\bin\Debug\CSharpFileDisplaySample.pdb
+C:\Users\Public\Documents\Autodesk\Inventor 2015\SDK\DeveloperTools\Samples\VCSharp.NET\Standalone Applications\ApprenticeServer\FileDisplay\obj\Debug\CSharpFileDisplaySample.csprojResolveAssemblyReference.cache
+C:\Users\Public\Documents\Autodesk\Inventor 2015\SDK\DeveloperTools\Samples\VCSharp.NET\Standalone Applications\ApprenticeServer\FileDisplay\obj\Debug\CSharpFileDisplaySample.Form1.resources
+C:\Users\Public\Documents\Autodesk\Inventor 2015\SDK\DeveloperTools\Samples\VCSharp.NET\Standalone Applications\ApprenticeServer\FileDisplay\obj\Debug\CSharpFileDisplaySample.csproj.GenerateResource.Cache
+C:\Users\Public\Documents\Autodesk\Inventor 2015\SDK\DeveloperTools\Samples\VCSharp.NET\Standalone Applications\ApprenticeServer\FileDisplay\obj\Debug\CSharpFileDisplaySample.exe
+C:\Users\Public\Documents\Autodesk\Inventor 2015\SDK\DeveloperTools\Samples\VCSharp.NET\Standalone Applications\ApprenticeServer\FileDisplay\obj\Debug\CSharpFileDisplaySample.pdb
+C:\Users\Public\Documents\Autodesk\Inventor 2015\SDK\DeveloperTools\Samples\VCSharp.NET\Standalone Applications\ApprenticeServer\FileDisplay\bin\Debug\CSharpFileDisplaySample.exe.config
+C:\Users\Public\Documents\Autodesk\Inventor 2015\SDK\DeveloperTools\Samples\VCSharp.NET\Standalone Applications\ApprenticeServer\FileDisplay\bin\Debug\AxInventorViewControlLib.dll
+C:\Users\Public\Documents\Autodesk\Inventor 2015\SDK\DeveloperTools\Samples\VCSharp.NET\Standalone Applications\ApprenticeServer\FileDisplay\bin\Debug\InventorApprentice.dll
+C:\Users\Public\Documents\Autodesk\Inventor 2015\SDK\DeveloperTools\Samples\VCSharp.NET\Standalone Applications\ApprenticeServer\FileDisplay - Regenerated\bin\Debug\CSharpFileDisplaySample.exe.config
+C:\Users\Public\Documents\Autodesk\Inventor 2015\SDK\DeveloperTools\Samples\VCSharp.NET\Standalone Applications\ApprenticeServer\FileDisplay - Regenerated\obj\Debug\CSharpFileDisplaySample.csproj.ResolveComReference.cache
+C:\Users\Public\Documents\Autodesk\Inventor 2015\SDK\DeveloperTools\Samples\VCSharp.NET\Standalone Applications\ApprenticeServer\FileDisplay - Regenerated\obj\Debug\CSharpFileDisplaySample.exe
+C:\Users\Public\Documents\Autodesk\Inventor 2015\SDK\DeveloperTools\Samples\VCSharp.NET\Standalone Applications\ApprenticeServer\FileDisplay - Regenerated\obj\Debug\CSharpFileDisplaySample.pdb
+C:\Users\Public\Documents\Autodesk\Inventor 2015\SDK\DeveloperTools\Samples\VCSharp.NET\Standalone Applications\ApprenticeServer\FileDisplay - Regenerated\bin\Debug\CSharpFileDisplaySample.exe
+C:\Users\Public\Documents\Autodesk\Inventor 2015\SDK\DeveloperTools\Samples\VCSharp.NET\Standalone Applications\ApprenticeServer\FileDisplay - Regenerated\bin\Debug\CSharpFileDisplaySample.pdb
+C:\Users\Public\Documents\Autodesk\Inventor 2015\SDK\DeveloperTools\Samples\VCSharp.NET\Standalone Applications\ApprenticeServer\FileDisplay - Regenerated\bin\Debug\AxInventorViewControlLib.dll
+C:\Users\Public\Documents\Autodesk\Inventor 2015\SDK\DeveloperTools\Samples\VCSharp.NET\Standalone Applications\ApprenticeServer\FileDisplay - Regenerated\bin\Debug\InventorViewControlLib.dll
+C:\Users\Public\Documents\Autodesk\Inventor 2015\SDK\DeveloperTools\Samples\VCSharp.NET\Standalone Applications\ApprenticeServer\FileDisplay - Regenerated\bin\Debug\InventorApprentice.dll
+C:\Users\Public\Documents\Autodesk\Inventor 2015\SDK\DeveloperTools\Samples\VCSharp.NET\Standalone Applications\ApprenticeServer\FileDisplay - Regenerated\obj\Debug\CSharpFileDisplaySample.csprojResolveAssemblyReference.cache
+C:\Users\Public\Documents\Autodesk\Inventor 2015\SDK\DeveloperTools\Samples\VCSharp.NET\Standalone Applications\ApprenticeServer\FileDisplay - Regenerated\obj\Debug\CSharpFileDisplaySample.Form1.resources
+C:\Users\Public\Documents\Autodesk\Inventor 2015\SDK\DeveloperTools\Samples\VCSharp.NET\Standalone Applications\ApprenticeServer\FileDisplay - Regenerated\obj\Debug\CSharpFileDisplaySample.csproj.GenerateResource.Cache
+C:\Users\Public\Documents\Autodesk\Inventor 2015\SDK\DeveloperTools\Samples\VCSharp.NET\Standalone Applications\ApprenticeServer\FileDisplay .NET 4.0\bin\Debug\CSharpFileDisplaySample.exe.config
+C:\Users\Public\Documents\Autodesk\Inventor 2015\SDK\DeveloperTools\Samples\VCSharp.NET\Standalone Applications\ApprenticeServer\FileDisplay .NET 4.0\obj\Debug\CSharpFileDisplaySample.csproj.ResolveComReference.cache
+C:\Users\Public\Documents\Autodesk\Inventor 2015\SDK\DeveloperTools\Samples\VCSharp.NET\Standalone Applications\ApprenticeServer\FileDisplay .NET 4.0\obj\Debug\CSharpFileDisplaySample.exe
+C:\Users\Public\Documents\Autodesk\Inventor 2015\SDK\DeveloperTools\Samples\VCSharp.NET\Standalone Applications\ApprenticeServer\FileDisplay .NET 4.0\obj\Debug\CSharpFileDisplaySample.pdb
+C:\Users\Public\Documents\Autodesk\Inventor 2015\SDK\DeveloperTools\Samples\VCSharp.NET\Standalone Applications\ApprenticeServer\FileDisplay .NET 4.0\bin\Debug\CSharpFileDisplaySample.exe
+C:\Users\Public\Documents\Autodesk\Inventor 2015\SDK\DeveloperTools\Samples\VCSharp.NET\Standalone Applications\ApprenticeServer\FileDisplay .NET 4.0\bin\Debug\CSharpFileDisplaySample.pdb
+C:\Users\Public\Documents\Autodesk\Inventor 2015\SDK\DeveloperTools\Samples\VCSharp.NET\Standalone Applications\ApprenticeServer\FileDisplay .NET 4.0\bin\Debug\AxInventorViewControlLib.dll
+C:\Users\Public\Documents\Autodesk\Inventor 2015\SDK\DeveloperTools\Samples\VCSharp.NET\Standalone Applications\ApprenticeServer\FileDisplay .NET 4.0\bin\Debug\InventorViewControlLib.dll
+C:\Users\Public\Documents\Autodesk\Inventor 2015\SDK\DeveloperTools\Samples\VCSharp.NET\Standalone Applications\ApprenticeServer\FileDisplay .NET 4.0\bin\Debug\InventorApprentice.dll
+C:\Users\Public\Documents\Autodesk\Inventor 2015\SDK\DeveloperTools\Samples\VCSharp.NET\Standalone Applications\ApprenticeServer\FileDisplay .NET 4.0\obj\Debug\CSharpFileDisplaySample.csprojResolveAssemblyReference.cache
+C:\Users\Public\Documents\Autodesk\Inventor 2015\SDK\DeveloperTools\Samples\VCSharp.NET\Standalone Applications\ApprenticeServer\FileDisplay .NET 4.0\obj\Debug\CSharpFileDisplaySample.Form1.resources
+C:\Users\Public\Documents\Autodesk\Inventor 2015\SDK\DeveloperTools\Samples\VCSharp.NET\Standalone Applications\ApprenticeServer\FileDisplay .NET 4.0\obj\Debug\CSharpFileDisplaySample.csproj.GenerateResource.Cache
